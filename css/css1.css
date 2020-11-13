@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Signika'), local('Signika-Regular'), url(q41y_9MUP_N8ipOH4ORRvw.woff2) format('woff2'), url(_M5k9_BZTkfaM2dnN0vNGw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Signika-Semibold'), url(FZa_MODmDkR9DTu5jHSnSfk_vArhqVIZ0nv9q090hN8.woff2) format('woff2'), url(FZa_MODmDkR9DTu5jHSnSRsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}

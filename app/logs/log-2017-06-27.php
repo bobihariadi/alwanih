@@ -1,0 +1,57 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-06-27 01:12:57 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 02:13:03 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 02:13:04 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 03:32:39 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 03:32:42 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 04:39:35 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 04:39:37 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 05:42:17 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 07:17:26 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 07:17:28 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 10:25:32 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 12:12:12 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 12:12:15 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 14:11:04 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 16:15:21 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 16:15:22 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 16:16:44 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 17:04:46 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 17:11:24 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 17:11:26 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 17:42:25 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 17:42:27 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 18:21:35 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 18:21:37 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 18:21:46 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 18:34:03 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 19:06:02 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 19:06:04 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 19:26:33 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 20:00:36 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 20:00:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-06-27 20:00:37 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 20:01:25 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 20:04:15 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 20:04:17 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 21:28:39 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 21:28:42 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 21:32:44 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 21:32:46 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 21:42:16 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 22:03:07 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 22:03:08 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 22:08:21 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 22:08:23 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 22:11:20 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 22:11:23 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 22:40:02 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 22:40:03 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 22:42:32 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 22:42:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-06-27 22:42:48 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 23:12:31 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 23:12:35 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 23:57:48 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257
+ERROR - 2017-06-27 23:57:50 --> Severity: Notice  --> Only variable references should be returned by reference /home/alwanihc/public_html/system/core/Common.php 257

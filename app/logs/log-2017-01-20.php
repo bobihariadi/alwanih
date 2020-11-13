@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-01-20 02:48:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-20 06:44:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-20 09:18:46 --> 404 Page Not Found --> admin
+ERROR - 2017-01-20 09:18:50 --> 404 Page Not Found --> manager
+ERROR - 2017-01-20 09:18:53 --> 404 Page Not Found --> admin
+ERROR - 2017-01-20 09:18:55 --> 404 Page Not Found --> simpla
+ERROR - 2017-01-20 10:13:32 --> 404 Page Not Found --> admin
+ERROR - 2017-01-20 10:13:35 --> 404 Page Not Found --> manager
+ERROR - 2017-01-20 10:13:39 --> 404 Page Not Found --> admin
+ERROR - 2017-01-20 10:13:41 --> 404 Page Not Found --> simpla
+ERROR - 2017-01-20 11:47:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-20 12:14:56 --> 404 Page Not Found --> admin
+ERROR - 2017-01-20 12:15:00 --> 404 Page Not Found --> manager
+ERROR - 2017-01-20 12:15:08 --> 404 Page Not Found --> admin
+ERROR - 2017-01-20 12:15:12 --> 404 Page Not Found --> simpla
+ERROR - 2017-01-20 13:19:24 --> 404 Page Not Found --> admin
+ERROR - 2017-01-20 13:19:42 --> 404 Page Not Found --> manager
+ERROR - 2017-01-20 13:19:50 --> 404 Page Not Found --> admin
+ERROR - 2017-01-20 13:20:01 --> 404 Page Not Found --> simpla
+ERROR - 2017-01-20 15:24:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-20 19:17:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-01-20 19:20:53 --> 404 Page Not Found --> robots.txt

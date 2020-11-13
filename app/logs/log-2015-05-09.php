@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-05-09 01:13:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-09 02:35:45 --> 404 Page Not Found --> admin.php
+ERROR - 2015-05-09 02:35:46 --> 404 Page Not Found --> administrator
+ERROR - 2015-05-09 02:35:47 --> 404 Page Not Found --> wp-login.php
+ERROR - 2015-05-09 13:19:16 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-09 16:59:45 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-05-09 16:59:47 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-05-09 17:00:43 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-05-09 17:00:44 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-05-09 17:01:38 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-05-09 17:01:38 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-05-09 17:02:47 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-05-09 17:02:47 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-05-09 17:12:35 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-05-09 17:12:36 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-05-09 19:07:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-09 22:07:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-09 22:07:08 --> 404 Page Not Found --> mobile

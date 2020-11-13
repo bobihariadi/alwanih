@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-11-20 00:14:19 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-11-20 07:23:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-20 07:23:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-11-20 19:10:43 --> 404 Page Not Found --> administrator
+ERROR - 2016-11-20 19:10:43 --> 404 Page Not Found --> news.php
+ERROR - 2016-11-20 19:10:43 --> 404 Page Not Found --> tmp.php
+ERROR - 2016-11-20 19:10:43 --> 404 Page Not Found --> infos.php
+ERROR - 2016-11-20 19:10:43 --> 404 Page Not Found --> images
+ERROR - 2016-11-20 19:11:51 --> 404 Page Not Found --> wp-main.php
+ERROR - 2016-11-20 19:13:06 --> 404 Page Not Found --> wp-content
+ERROR - 2016-11-20 19:17:43 --> 404 Page Not Found --> sqlibak.php
+ERROR - 2016-11-20 19:19:38 --> 404 Page Not Found --> functions.php
+ERROR - 2016-11-20 19:21:08 --> 404 Page Not Found --> wp-cache.php
+ERROR - 2016-11-20 19:22:33 --> 404 Page Not Found --> images
+ERROR - 2016-11-20 19:23:30 --> 404 Page Not Found --> wp-content
+ERROR - 2016-11-20 19:25:13 --> 404 Page Not Found --> maill.php
+ERROR - 2016-11-20 19:26:35 --> 404 Page Not Found --> includes.php
+ERROR - 2016-11-20 19:29:04 --> 404 Page Not Found --> configurationbak.php

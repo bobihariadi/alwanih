@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-08-10 01:08:12 --> 404 Page Not Found --> go
+ERROR - 2015-08-10 01:08:12 --> 404 Page Not Found --> go.php
+ERROR - 2015-08-10 01:08:12 --> 404 Page Not Found --> away.php
+ERROR - 2015-08-10 01:08:12 --> 404 Page Not Found --> go.php
+ERROR - 2015-08-10 01:08:12 --> 404 Page Not Found --> away
+ERROR - 2015-08-10 01:08:12 --> 404 Page Not Found --> go
+ERROR - 2015-08-10 01:08:12 --> 404 Page Not Found --> redirect.php
+ERROR - 2015-08-10 01:08:12 --> 404 Page Not Found --> redirect.php
+ERROR - 2015-08-10 03:14:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-08-10 11:20:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-08-10 19:55:28 --> 404 Page Not Found --> go
+ERROR - 2015-08-10 19:55:28 --> 404 Page Not Found --> go.php
+ERROR - 2015-08-10 19:55:28 --> 404 Page Not Found --> away.php
+ERROR - 2015-08-10 19:55:28 --> 404 Page Not Found --> away
+ERROR - 2015-08-10 19:55:28 --> 404 Page Not Found --> go
+ERROR - 2015-08-10 19:55:28 --> 404 Page Not Found --> go.php
+ERROR - 2015-08-10 19:55:29 --> 404 Page Not Found --> redirect.php
+ERROR - 2015-08-10 19:55:29 --> 404 Page Not Found --> redirect.php

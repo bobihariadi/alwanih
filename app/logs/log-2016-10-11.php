@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-10-11 00:27:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-10-11 08:57:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-10-11 08:57:24 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2016-10-11 10:16:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-10-11 17:56:14 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-10-11 17:56:14 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-10-11 17:56:21 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-10-11 17:56:21 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-10-11 17:56:54 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-10-11 17:56:54 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-10-11 17:57:08 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-10-11 17:57:08 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-10-11 17:57:12 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-10-11 17:57:12 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-10-11 18:05:33 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-10-11 18:05:33 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-10-11 18:05:37 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-10-11 18:05:38 --> 404 Page Not Found --> apple-touch-icon.png
