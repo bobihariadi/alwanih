@@ -29,7 +29,7 @@ $now = time();
         <h1><a style="border:2px solid #fff;padding:3px;" href="index.php">ALWANIH & Co.</a></h1>
       </div>
       <div style="padding-top:26px;margin-left:15px;;float:left">
-        <img src="images/logo/b88dbb_9605f4a7eadb406a85a0ac0bcad4ccca-mv2.png" style="width:30px;" >
+        <img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/b88dbb_9605f4a7eadb406a85a0ac0bcad4ccca-mv2.png" style="width:30px;" >
         <b style="font-size:20px;">082 111 999 875</b>
       </div>
       <!-- ################################################################################################ -->

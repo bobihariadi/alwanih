@@ -30,7 +30,7 @@ Licence URI: http://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- Top Background Image Wrapper -->
-<div class="bgded overlay" style="background-image:url('images/logo/background tentang kami.jpg_');background-position: center;  " > 
+<div class="bgded overlay" style="background-image:url('https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/background tentang kami.jpg_');background-position: center;  " > 
   <!-- ################################################################################################ -->
   <!-- <div class="wrapper row0">
     <div id="topbar" class="hoc clear"> 
@@ -63,8 +63,8 @@ Licence URI: http://www.os-templates.com/template-terms
   <div class="wrapper">
     <div id="pageintro" class="hoc clear" style="max-width:100%;"> 
       <!-- ################################################################################################ -->
-      <img src="images/logo/hub1.png">
-      <img src="images/logo/hub2.png" style="margin-top:-5px">  
+      <img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/hub1.png">
+      <img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/hub2.png" style="margin-top:-5px">  
 
       <div style="position:absolute;top:43em;margin-left:56em;width:400px">
       <form name="kontak" id="kontak" method="post" onsubmit="sendpesan(); return false;" style="width:100%; color:#000">
@@ -80,10 +80,10 @@ Licence URI: http://www.os-templates.com/template-terms
       </div>
 
       <div style="position:absolute;top:68em;margin-left:56em; "><center>
-      <a href="http://peradi.or.id" target="_blank"><img src="images/logo/b88dbb_2584920392564525b045416ff3411390-mv2.png" style="width:200px;"></a>
+      <a href="http://peradi.or.id" target="_blank"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/b88dbb_2584920392564525b045416ff3411390-mv2.png" style="width:200px;"></a>
       </center></div>
       <div style="position:absolute;top:73em;margin-left:56em; "><center>
-      <a href="http://apsi.web.id" target="_blank"><img src="images/logo/b88dbb_855de64c6f124b8ea64405a7aa8dc1bc-mv2.png" style="width:200px;"></a>
+      <a href="http://apsi.web.id" target="_blank"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/b88dbb_855de64c6f124b8ea64405a7aa8dc1bc-mv2.png" style="width:200px;"></a>
       </center></div>
 
       <!-- ################################################################################################ -->
@@ -91,11 +91,11 @@ Licence URI: http://www.os-templates.com/template-terms
   </div>
 
   <div class="samping" >
-   <a target="_blank" href="https://www.youtube.com/channel/UCwUdno3oyowqSlwi_S1ijTw"><img src="images/logo/6-2-youtube-png-picture.png" ></a>
-    <a target="_blank" href="https://www.facebook.com/alwanihadvokat/?fref=ts"><img src="images/logo/facebook-icon-5.png" style="margin-top:10px;" ></a>
-    <a target="_blank" href="https://twitter.com/al_advocate"><img src="images/logo/twitter-bird-icon-logo-vector-400x400.png" style="margin-top:10px;" ></a>
-    <a target="_blank" href="https://plus.google.com/101720369054740362192?hl=id"><img src="images/logo/74d327d3628e4f14800301f1c61013b0.png" style="margin-top:10px;" ></a>
-    <a target="_blank" href="https://www.instagram.com/al_counsellor/"><img src="images/logo/instagram-Logo-PNG-Transparent-Background-download.png" style="margin-top:10px;" ></a>
+   <a target="_blank" href="https://www.youtube.com/channel/UCwUdno3oyowqSlwi_S1ijTw"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/6-2-youtube-png-picture.png" ></a>
+    <a target="_blank" href="https://www.facebook.com/alwanihadvokat/?fref=ts"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/facebook-icon-5.png" style="margin-top:10px;" ></a>
+    <a target="_blank" href="https://twitter.com/al_advocate"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/twitter-bird-icon-logo-vector-400x400.png" style="margin-top:10px;" ></a>
+    <a target="_blank" href="https://plus.google.com/101720369054740362192?hl=id"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/74d327d3628e4f14800301f1c61013b0.png" style="margin-top:10px;" ></a>
+    <a target="_blank" href="https://www.instagram.com/al_counsellor/"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/instagram-Logo-PNG-Transparent-Background-download.png" style="margin-top:10px;" ></a>
   </div>
 
   <!-- ################################################################################################ -->

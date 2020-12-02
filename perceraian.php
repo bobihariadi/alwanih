@@ -30,7 +30,7 @@ Licence URI: http://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- Top Background Image Wrapper -->
-<div class="bgded overlay" style="//background-image:url('images/logo/MERAH.png');" > 
+<div class="bgded overlay" style="//background-image:url('https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/MERAH.png');" > 
   <!-- ################################################################################################ -->
   <!-- <div class="wrapper row0">
     <div id="topbar" class="hoc clear"> 
@@ -63,17 +63,17 @@ Licence URI: http://www.os-templates.com/template-terms
   <div class="wrapper">
     <div id="pageintro" class="hoc clear"> 
       <!-- ################################################################################################ -->
-      <img src="images/news/7.png" style="width:100%">
+      <img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/news/7.png" style="width:100%">
       <!-- ################################################################################################ -->
     </div>
   </div>
 
   <div class="samping" >
-   <a target="_blank" href="https://www.youtube.com/channel/UCwUdno3oyowqSlwi_S1ijTw"><img src="images/logo/6-2-youtube-png-picture.png" ></a>
-    <a target="_blank" href="https://www.facebook.com/alwanihadvokat/?fref=ts"><img src="images/logo/facebook-icon-5.png" style="margin-top:10px;" ></a>
-    <a target="_blank" href="https://twitter.com/al_advocate"><img src="images/logo/twitter-bird-icon-logo-vector-400x400.png" style="margin-top:10px;" ></a>
-    <a target="_blank" href="https://plus.google.com/101720369054740362192?hl=id"><img src="images/logo/74d327d3628e4f14800301f1c61013b0.png" style="margin-top:10px;" ></a>
-    <a target="_blank" href="https://www.instagram.com/al_counsellor/"><img src="images/logo/instagram-Logo-PNG-Transparent-Background-download.png" style="margin-top:10px;" ></a>
+   <a target="_blank" href="https://www.youtube.com/channel/UCwUdno3oyowqSlwi_S1ijTw"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/6-2-youtube-png-picture.png" ></a>
+    <a target="_blank" href="https://www.facebook.com/alwanihadvokat/?fref=ts"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/facebook-icon-5.png" style="margin-top:10px;" ></a>
+    <a target="_blank" href="https://twitter.com/al_advocate"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/twitter-bird-icon-logo-vector-400x400.png" style="margin-top:10px;" ></a>
+    <a target="_blank" href="https://plus.google.com/101720369054740362192?hl=id"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/74d327d3628e4f14800301f1c61013b0.png" style="margin-top:10px;" ></a>
+    <a target="_blank" href="https://www.instagram.com/al_counsellor/"><img src="https://raw.githubusercontent.com/bobihariadi/alwanih/main/images/logo/instagram-Logo-PNG-Transparent-Background-download.png" style="margin-top:10px;" ></a>
   </div>
 
   <!-- ################################################################################################ -->
